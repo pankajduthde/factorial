@@ -1,1 +1,1 @@
-# factorial
+# factorial_using_a_function
